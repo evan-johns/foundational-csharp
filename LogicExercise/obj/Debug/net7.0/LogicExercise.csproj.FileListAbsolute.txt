@@ -1,0 +1,14 @@
+/Users/evanjohns/Documents/code/CsharpProjects/LogicExercise/bin/Debug/net7.0/LogicExercise
+/Users/evanjohns/Documents/code/CsharpProjects/LogicExercise/bin/Debug/net7.0/LogicExercise.deps.json
+/Users/evanjohns/Documents/code/CsharpProjects/LogicExercise/bin/Debug/net7.0/LogicExercise.runtimeconfig.json
+/Users/evanjohns/Documents/code/CsharpProjects/LogicExercise/bin/Debug/net7.0/LogicExercise.dll
+/Users/evanjohns/Documents/code/CsharpProjects/LogicExercise/bin/Debug/net7.0/LogicExercise.pdb
+/Users/evanjohns/Documents/code/CsharpProjects/LogicExercise/obj/Debug/net7.0/LogicExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evanjohns/Documents/code/CsharpProjects/LogicExercise/obj/Debug/net7.0/LogicExercise.AssemblyInfoInputs.cache
+/Users/evanjohns/Documents/code/CsharpProjects/LogicExercise/obj/Debug/net7.0/LogicExercise.AssemblyInfo.cs
+/Users/evanjohns/Documents/code/CsharpProjects/LogicExercise/obj/Debug/net7.0/LogicExercise.csproj.CoreCompileInputs.cache
+/Users/evanjohns/Documents/code/CsharpProjects/LogicExercise/obj/Debug/net7.0/LogicExercise.dll
+/Users/evanjohns/Documents/code/CsharpProjects/LogicExercise/obj/Debug/net7.0/refint/LogicExercise.dll
+/Users/evanjohns/Documents/code/CsharpProjects/LogicExercise/obj/Debug/net7.0/LogicExercise.pdb
+/Users/evanjohns/Documents/code/CsharpProjects/LogicExercise/obj/Debug/net7.0/LogicExercise.genruntimeconfig.cache
+/Users/evanjohns/Documents/code/CsharpProjects/LogicExercise/obj/Debug/net7.0/ref/LogicExercise.dll
